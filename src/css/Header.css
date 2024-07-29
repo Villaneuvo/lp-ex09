@@ -1,0 +1,27 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 16px 32px;
+  background-color: #008284;
+  text-decoration: none;
+}
+
+h1 {
+  background-color: white;
+}
+
+.menu-wrapper {
+  display: flex;
+  gap: 24px;
+  padding: 0;
+}
+
+.menu {
+  list-style-type: none;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+}
